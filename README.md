@@ -29,6 +29,9 @@
 | Branch | `main` |
 | Subdirectory | 留空 |
 
+> [!IMPORTANT]
+> **CC Switch v3.20.0 不要直接添加 `openclaw/openclaw` 或带 `/tree/main/skills` 的官方 URL。** 当前版本只保存 Owner、Name 和 Branch，下载时仍会获取整个 OpenClaw 仓库，不能只下载 `skills/` 子目录。OpenClaw 完整 ZIP 约有 35,000 个条目，超过 CC Switch 的 10,000 条目安全上限，因此会显示“识别到 0 个技能”。请删除旧的 `openclaw/openclaw` 条目，只保留 `Marco9442/openclaw-skills`。
+
 CC Switch 会递归扫描仓库中的 `SKILL.md`，因此仓库根目录下的各技能可以直接显示、安装和更新。
 
 对应仓库地址：
