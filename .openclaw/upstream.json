@@ -1,0 +1,558 @@
+{
+  "contentSha256": "e24b9b5964e33d095b70554ece86142a1194ad7c9d886e766d85f87c9b4d7014",
+  "fileCount": 77,
+  "files": [
+    {
+      "mode": "100644",
+      "path": "1password/SKILL.md",
+      "sha256": "31721928c499579bad04ab1a61e14b22b6fd01c5dfa328aa911f9ea3e22ebfdf",
+      "size": 6821,
+      "sourcePath": "skills/1password/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "1password/references/cli-examples.md",
+      "sha256": "7df8fb39623b7cd222766e33255d47c271f772ca53198f256f1270fd9054d20e",
+      "size": 720,
+      "sourcePath": "skills/1password/references/cli-examples.md"
+    },
+    {
+      "mode": "100644",
+      "path": "1password/references/get-started.md",
+      "sha256": "492c2c77f54f2071560f5e80c0b39255430ce1dd4688e27bdd42ba14ace495e2",
+      "size": 2039,
+      "sourcePath": "skills/1password/references/get-started.md"
+    },
+    {
+      "mode": "100644",
+      "path": "LICENSE",
+      "sha256": "73571b25326281d369087f469842c02444fe39faaecebda4d82ed21ff3a1c29d",
+      "size": 1170,
+      "sourcePath": "LICENSE"
+    },
+    {
+      "mode": "100644",
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "c84200f7a9bb8b3abc8563520433316716a9eb83915cfe7c3063d5e6fce5e7ca",
+      "size": 1575,
+      "sourcePath": "THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "mode": "100644",
+      "path": "apple-notes/SKILL.md",
+      "sha256": "d280e7ffffeb182172da7afad23528ef9f73ee4905ab88ebb124046aa6e6aed7",
+      "size": 1979,
+      "sourcePath": "skills/apple-notes/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "apple-reminders/SKILL.md",
+      "sha256": "08413d063e71c7ad7e4691e81a1063b455b816957ce7898576c2653542e8303d",
+      "size": 3039,
+      "sourcePath": "skills/apple-reminders/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "bear-notes/SKILL.md",
+      "sha256": "10836e95358f59969972c161a38984e4f38695357aa56b51795743c85f55318d",
+      "size": 2651,
+      "sourcePath": "skills/bear-notes/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "blogwatcher/SKILL.md",
+      "sha256": "dc6b343e2c655215d15ddcc6e134d76d5b7973a6a1e5d59ee61fb9e0a902c670",
+      "size": 1417,
+      "sourcePath": "skills/blogwatcher/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "blucli/SKILL.md",
+      "sha256": "977fde68700d0839357acdd3926cd19d646de5be3acbc3d0a1d71e00694bd619",
+      "size": 1022,
+      "sourcePath": "skills/blucli/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "camsnap/SKILL.md",
+      "sha256": "53a7e4cb6c1903d3c4022ee15943d38b7ac8b894dd96e1466935c5a043b37efc",
+      "size": 1825,
+      "sourcePath": "skills/camsnap/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "clawhub/SKILL.md",
+      "sha256": "f43dacdcec121b4f41e565530fd106b16500caa8e59cc3c4824014b853d76882",
+      "size": 2388,
+      "sourcePath": "skills/clawhub/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "coding-agent/SKILL.md",
+      "sha256": "cabfef83abacbecaf73081677a9fb1c718770594dfd729aafae93581dae2b242",
+      "size": 10606,
+      "sourcePath": "skills/coding-agent/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "diagram-maker/SKILL.md",
+      "sha256": "6195e03fcb04a1a68c4af72165e0c85efcd2719af79380d82e42996ea89ad74a",
+      "size": 2357,
+      "sourcePath": "skills/diagram-maker/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "diagram-maker/references/excalidraw-patterns.md",
+      "sha256": "6fc8799815adc1ef0171f25f59431e7e60bfa072ad570a60c335383bd872bf56",
+      "size": 1394,
+      "sourcePath": "skills/diagram-maker/references/excalidraw-patterns.md"
+    },
+    {
+      "mode": "100644",
+      "path": "diagram-maker/references/svg-template.md",
+      "sha256": "3a8b47dbaeb341377a4999ff227f088a3a7fe2bee7b1353929f11a1f30b20c71",
+      "size": 1930,
+      "sourcePath": "skills/diagram-maker/references/svg-template.md"
+    },
+    {
+      "mode": "100644",
+      "path": "eightctl/SKILL.md",
+      "sha256": "ec9962d3f96bb7c5060760a1a5a292347d10bd68545e5a884f271b403592213a",
+      "size": 1096,
+      "sourcePath": "skills/eightctl/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "gemini/SKILL.md",
+      "sha256": "6a1a1b18885e14d4984b80f9a0a98b992fe26781664e27b8a7afa18028445007",
+      "size": 1158,
+      "sourcePath": "skills/gemini/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "gh-issues/SKILL.md",
+      "sha256": "e7a64973e186211725e18a45d076803abc07915e348fd94691e7acaea367d54a",
+      "size": 6320,
+      "sourcePath": "skills/gh-issues/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "gifgrep/SKILL.md",
+      "sha256": "ac3981d030c96e79100328fb4cf84a317cecaef1c4e186d0acca21b9aef0dbe5",
+      "size": 2610,
+      "sourcePath": "skills/gifgrep/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "github/SKILL.md",
+      "sha256": "d0d8619122e59e712661e7ab4a41ef2facfed34f0442ee0666a66d6342722879",
+      "size": 3048,
+      "sourcePath": "skills/github/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "gog/SKILL.md",
+      "sha256": "96c871162fced367ccd2e2c7767cf8f3fe42665d9a97bd6f5c21ad3167df6fdd",
+      "size": 4561,
+      "sourcePath": "skills/gog/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "goplaces/SKILL.md",
+      "sha256": "81139f4e645a6355e23d15f94ee6d6ef3bfce8eb4a5716dad298880e2b38e24b",
+      "size": 1473,
+      "sourcePath": "skills/goplaces/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "healthcheck/SKILL.md",
+      "sha256": "518ec6e0482cf1c7c7134f7777a8a4ae06b76021859fe69430926063df0c78a0",
+      "size": 2537,
+      "sourcePath": "skills/healthcheck/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "himalaya/SKILL.md",
+      "sha256": "60b330f88fb230b910836dd612f559570034e7932b9f85084247af8db944c343",
+      "size": 1755,
+      "sourcePath": "skills/himalaya/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "himalaya/references/configuration.md",
+      "sha256": "a1838b3f370abef2c6c45226115158aee095623701a4ffb48ea633bce14ccf0f",
+      "size": 4084,
+      "sourcePath": "skills/himalaya/references/configuration.md"
+    },
+    {
+      "mode": "100644",
+      "path": "himalaya/references/message-composition.md",
+      "sha256": "84d889972f5f4243d891405b83e67bddc7e835b2c4e434efd77fdc6bca9fe307",
+      "size": 3799,
+      "sourcePath": "skills/himalaya/references/message-composition.md"
+    },
+    {
+      "mode": "100644",
+      "path": "mcporter/SKILL.md",
+      "sha256": "010ed9b265e58d45d1e95e6deac5e60b1e46e6ebab00fc3fe30429a1048e236e",
+      "size": 1612,
+      "sourcePath": "skills/mcporter/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "meme-maker/SKILL.md",
+      "sha256": "52e7e5ccdd4ccafcf027a0a007c74aa6209b02a99c607261d1e69f6d61cae673",
+      "size": 2403,
+      "sourcePath": "skills/meme-maker/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "meme-maker/references/templates.json",
+      "sha256": "414847dc28da8556bdd9a3ddf350f3d859d4668ecc237c1889b289d42d2879b8",
+      "size": 13128,
+      "sourcePath": "skills/meme-maker/references/templates.json"
+    },
+    {
+      "mode": "100755",
+      "path": "meme-maker/scripts/meme.mjs",
+      "sha256": "a074e2cba7510c7eba89467aafd2423cae9a495598afaf1d069c24e6c5ac7b04",
+      "size": 12614,
+      "sourcePath": "skills/meme-maker/scripts/meme.mjs"
+    },
+    {
+      "mode": "100644",
+      "path": "model-usage/SKILL.md",
+      "sha256": "f4e40f006365acc5f519a55f4efacb6c722788026792e498fcf46dc1a0f0c1d1",
+      "size": 2550,
+      "sourcePath": "skills/model-usage/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "model-usage/references/codexbar-cli.md",
+      "sha256": "58e57a7bf1359ed32b1fe80c7285e75f88127e82db6b0dbab2ec4dda6ffaca42",
+      "size": 1299,
+      "sourcePath": "skills/model-usage/references/codexbar-cli.md"
+    },
+    {
+      "mode": "100644",
+      "path": "model-usage/scripts/model_usage.py",
+      "sha256": "cd13c65d9d10faaff20bdf40d5f45f6d26a29dacc3e13d8a1e481a3a8a0f4874",
+      "size": 11490,
+      "sourcePath": "skills/model-usage/scripts/model_usage.py"
+    },
+    {
+      "mode": "100644",
+      "path": "model-usage/scripts/test_model_usage.py",
+      "sha256": "5e1dadbd919072d39857fd011fe662137a058814caca990b0dfe6c6b73bc1251",
+      "size": 5654,
+      "sourcePath": "skills/model-usage/scripts/test_model_usage.py"
+    },
+    {
+      "mode": "100644",
+      "path": "nano-pdf/SKILL.md",
+      "sha256": "d8ab6db7572b0df862820dd3481c14ae306173a1dbcad7f07f9e48ada8efbe91",
+      "size": 954,
+      "sourcePath": "skills/nano-pdf/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "node-connect/SKILL.md",
+      "sha256": "f5cb8259f13bb963f10c920fcc794b4a764b5179e113f602d9cd6ff7bb674c48",
+      "size": 6555,
+      "sourcePath": "skills/node-connect/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "node-inspect-debugger/SKILL.md",
+      "sha256": "50d2f6828eaf4bbf7ccbaec5af928f9af978e93b7c679b0f3c8afe2a80ab7d52",
+      "size": 3576,
+      "sourcePath": "skills/node-inspect-debugger/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "notion/SKILL.md",
+      "sha256": "d45e2c1270d58c7878c13467ab27780530de2af89fb8b307c662b5d4859dc555",
+      "size": 3867,
+      "sourcePath": "skills/notion/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "obsidian/SKILL.md",
+      "sha256": "d4ed3ce53146bd6538c47f81da2382fc790598ec1400d34b7d1f73a8839053b4",
+      "size": 2942,
+      "sourcePath": "skills/obsidian/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "openai-whisper-api/SKILL.md",
+      "sha256": "afff70c706a9bae250b046b741e9930340ca87cc1689a82d4415dd4d6b45bfa1",
+      "size": 2073,
+      "sourcePath": "skills/openai-whisper-api/SKILL.md"
+    },
+    {
+      "mode": "100755",
+      "path": "openai-whisper-api/scripts/transcribe.sh",
+      "sha256": "7840f2628e2e5d878434419592a8cfc5fbfcf2f560cc1511085387e38e429c78",
+      "size": 3214,
+      "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
+    },
+    {
+      "mode": "100644",
+      "path": "openai-whisper/SKILL.md",
+      "sha256": "802e31d7310316fc25a5ec4fbe29308a0897c039cd2ae897f59fc25128ab4644",
+      "size": 914,
+      "sourcePath": "skills/openai-whisper/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "openhue/SKILL.md",
+      "sha256": "db350ab41088193693c991dbe601a3b39b619feedfccec1784e77c3161c11c89",
+      "size": 2423,
+      "sourcePath": "skills/openhue/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "oracle/SKILL.md",
+      "sha256": "f92f45d64cd9d7cca74cc4ad14b2dc891c6344050c0dd1b902394576d40c2523",
+      "size": 4894,
+      "sourcePath": "skills/oracle/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "ordercli/SKILL.md",
+      "sha256": "538a33d66aae6059128aa08f4428863a42d7d657f6edeefdb3c45c7d25c5605e",
+      "size": 2391,
+      "sourcePath": "skills/ordercli/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "peekaboo/SKILL.md",
+      "sha256": "0e7f6ae6c9a3d82f58f013b391d7eaa0259f60081de053e9ce0fde70724cc5ff",
+      "size": 7078,
+      "sourcePath": "skills/peekaboo/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "pyproject.toml",
+      "sha256": "a87491ef1dd0865c37ee2c10fa57b0af6025119bcc638630236f3001d1b2f5c6",
+      "size": 193,
+      "sourcePath": "skills/pyproject.toml"
+    },
+    {
+      "mode": "100644",
+      "path": "python-debugpy/SKILL.md",
+      "sha256": "bfb1891204b6726016f527044fa09ac656dd52b12d2b0e86e91c89424170aeb8",
+      "size": 2552,
+      "sourcePath": "skills/python-debugpy/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "sag/SKILL.md",
+      "sha256": "406461cf916466516d1757166f707bbe3d3cfc9cb9ba0ca09f1787615b29eddf",
+      "size": 2302,
+      "sourcePath": "skills/sag/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "session-logs/SKILL.md",
+      "sha256": "8c231c581ff0e0abf890ba53010c20ced96419683dc326f5e590209f6a1978f4",
+      "size": 6946,
+      "sourcePath": "skills/session-logs/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "sherpa-onnx-tts/SKILL.md",
+      "sha256": "4b0fe477f45e6e73daacb6b4cb0252b087576891f972a88f133c41669358f853",
+      "size": 3757,
+      "sourcePath": "skills/sherpa-onnx-tts/SKILL.md"
+    },
+    {
+      "mode": "100755",
+      "path": "sherpa-onnx-tts/bin/sherpa-onnx-tts",
+      "sha256": "542d46f42f5ff8d22ed71f58ca052e4e525a337d90bd25664a6237b6da56fd2a",
+      "size": 4811,
+      "sourcePath": "skills/sherpa-onnx-tts/bin/sherpa-onnx-tts"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/SKILL.md",
+      "sha256": "3b7b93823a496cedc957fc91bbc8f8be132f2edd095dcaa46cee5394c742f0e4",
+      "size": 2304,
+      "sourcePath": "skills/skill-creator/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/license.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358,
+      "sourcePath": "skills/skill-creator/license.txt"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/scripts/package_skill.py",
+      "sha256": "fa2f7ba4915464221cd71c7048e6eb71a920cf94c793332b4172d2ac353dd65a",
+      "size": 4703,
+      "sourcePath": "skills/skill-creator/scripts/package_skill.py"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/scripts/quick_validate.py",
+      "sha256": "580ccffbd9d4370bc35bca22c551da0353424e248d7499e8cd578eaec67dfd75",
+      "size": 5419,
+      "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/scripts/test_package_skill.py",
+      "sha256": "806e5a5dbca711b9f30dded0b4bc31dc233b85a0ab301caabdd36900d5db9788",
+      "size": 7771,
+      "sourcePath": "skills/skill-creator/scripts/test_package_skill.py"
+    },
+    {
+      "mode": "100644",
+      "path": "skill-creator/scripts/test_quick_validate.py",
+      "sha256": "349258a18c0130f0bf11dd60d361abffa493e426355bc14df4d1d3fc09a46f8a",
+      "size": 4533,
+      "sourcePath": "skills/skill-creator/scripts/test_quick_validate.py"
+    },
+    {
+      "mode": "100644",
+      "path": "songsee/SKILL.md",
+      "sha256": "d72b37088b7a09d781183ab0ff38adcda0e3596db79d902c117b57dda73a432a",
+      "size": 1316,
+      "sourcePath": "skills/songsee/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "sonoscli/SKILL.md",
+      "sha256": "d048a8c8eb9ebbb1e6000baca132f581c7d74bebf81df18f81b11410e466f6e8",
+      "size": 2457,
+      "sourcePath": "skills/sonoscli/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "spike/SKILL.md",
+      "sha256": "1258cde2d0e5326706536aeeef06d5366fd65e7e1c174c66130b2ac53a4344d1",
+      "size": 1891,
+      "sourcePath": "skills/spike/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "spotify-player/SKILL.md",
+      "sha256": "00f506401fa1126278b36412c3b352f288d19449e338d1f54fb843ebab634fba",
+      "size": 1688,
+      "sourcePath": "skills/spotify-player/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "summarize/SKILL.md",
+      "sha256": "b6d9be0ff47e646280a0ff40203823d7ca36913ab1bea25575b2de4afb3cc0df",
+      "size": 2125,
+      "sourcePath": "skills/summarize/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "taskflow-inbox-triage/SKILL.md",
+      "sha256": "1fe28cd924d8ae2db47a2c70d4a87ec1515b336a7058b4d1df99e5afd4301949",
+      "size": 2569,
+      "sourcePath": "skills/taskflow-inbox-triage/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "taskflow/SKILL.md",
+      "sha256": "d8b6a48d329aef0a8a72d008f1e2104db55e0228c7b2785042b815c1812861d1",
+      "size": 4751,
+      "sourcePath": "skills/taskflow/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "taskflow/examples/inbox-triage.lobster",
+      "sha256": "c14fad8bdf3d9cc464818798aa0db83d2862754a3a1f97556e27ffde61b9cc5f",
+      "size": 1360,
+      "sourcePath": "skills/taskflow/examples/inbox-triage.lobster"
+    },
+    {
+      "mode": "100644",
+      "path": "taskflow/examples/pr-intake.lobster",
+      "sha256": "bdb89b865573c8adabbb47a1ec102f00c34143da5b8de2e1c4dc06a9bc74f56a",
+      "size": 1274,
+      "sourcePath": "skills/taskflow/examples/pr-intake.lobster"
+    },
+    {
+      "mode": "100644",
+      "path": "things-mac/SKILL.md",
+      "sha256": "917110e26bc6a630d614acf47d05e84da5f81fb88c0d263f5987962dca2a05c2",
+      "size": 3390,
+      "sourcePath": "skills/things-mac/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "tmux/SKILL.md",
+      "sha256": "98b6b8392ec57e119a3e850363bc03eae3c917adb7c9a90327cf71842d9042f1",
+      "size": 1953,
+      "sourcePath": "skills/tmux/SKILL.md"
+    },
+    {
+      "mode": "100755",
+      "path": "tmux/scripts/find-sessions.sh",
+      "sha256": "4c4552ce0adb2754080969f00b761c1c118766771e0595b8c9b416ee0842fbae",
+      "size": 2945,
+      "sourcePath": "skills/tmux/scripts/find-sessions.sh"
+    },
+    {
+      "mode": "100755",
+      "path": "tmux/scripts/wait-for-text.sh",
+      "sha256": "96bc42702f7353c32233c223d61dd11f2f99033267aeefac838aea8983a67735",
+      "size": 2139,
+      "sourcePath": "skills/tmux/scripts/wait-for-text.sh"
+    },
+    {
+      "mode": "100644",
+      "path": "trello/SKILL.md",
+      "sha256": "dc524f73bd87b8089d061187bb26add41101ee82e288a1597a2d7b89fd934222",
+      "size": 2956,
+      "sourcePath": "skills/trello/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "video-frames/SKILL.md",
+      "sha256": "bdaaa9964db9584f6598e53fd025fad28d84a1e15859599f95180839fad05478",
+      "size": 959,
+      "sourcePath": "skills/video-frames/SKILL.md"
+    },
+    {
+      "mode": "100755",
+      "path": "video-frames/scripts/frame.sh",
+      "sha256": "b339455e9e618c836ccf2e3732e4fec9897f079730d8814eadb716e2459df453",
+      "size": 1347,
+      "sourcePath": "skills/video-frames/scripts/frame.sh"
+    },
+    {
+      "mode": "100644",
+      "path": "weather/SKILL.md",
+      "sha256": "62ab4821aa873949d1c1091836be1659a42b32caadce4bd145f5505a1ceaeec1",
+      "size": 2905,
+      "sourcePath": "skills/weather/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "xurl/SKILL.md",
+      "sha256": "fc9d705906cc219c0cfa1231446181dae8e96dcac6b373120edc7e1d1077567d",
+      "size": 2748,
+      "sourcePath": "skills/xurl/SKILL.md"
+    }
+  ],
+  "license": "MIT",
+  "openclawVersion": "2026.8.1",
+  "pathMapping": "skills/<path> -> <path>",
+  "schemaVersion": 1,
+  "skillCount": 51,
+  "skillsCommit": "8f0503657c0b6aadc5f58585797bbf971f1934b2",
+  "skillsCommitDate": "2026-08-25T05:57:03Z",
+  "sourceCommit": "147e9da5d8b5e02a29a5eb17931d2d07dc1b2c68",
+  "upstreamBranch": "main",
+  "upstreamOwner": "openclaw",
+  "upstreamRepository": "openclaw",
+  "upstreamSubdirectory": "skills",
+  "upstreamUrl": "https://github.com/openclaw/openclaw/tree/main/skills"
+}
