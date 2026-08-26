@@ -1,5 +1,5 @@
 {
-  "contentSha256": "e24b9b5964e33d095b70554ece86142a1194ad7c9d886e766d85f87c9b4d7014",
+  "contentSha256": "7684e7838a4a6c9a187bfc81be1a65c46e101d4e92c3f879798de798d1e7c36f",
   "fileCount": 77,
   "files": [
     {
@@ -453,15 +453,15 @@
     {
       "mode": "100644",
       "path": "taskflow-inbox-triage/SKILL.md",
-      "sha256": "1fe28cd924d8ae2db47a2c70d4a87ec1515b336a7058b4d1df99e5afd4301949",
-      "size": 2569,
+      "sha256": "75af6ffb65c3af0fded55d3eb526c456d869aa42a901ecc69a480bc7a7904110",
+      "size": 2577,
       "sourcePath": "skills/taskflow-inbox-triage/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "taskflow/SKILL.md",
-      "sha256": "d8b6a48d329aef0a8a72d008f1e2104db55e0228c7b2785042b815c1812861d1",
-      "size": 4751,
+      "sha256": "d650e8f027b8d9d5a6f3ca6f724319736be9930a30c977885e57b1db798f16d1",
+      "size": 4915,
       "sourcePath": "skills/taskflow/SKILL.md"
     },
     {
@@ -547,9 +547,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "8f0503657c0b6aadc5f58585797bbf971f1934b2",
-  "skillsCommitDate": "2026-08-25T05:57:03Z",
-  "sourceCommit": "147e9da5d8b5e02a29a5eb17931d2d07dc1b2c68",
+  "skillsCommit": "888c8422013e13023164c62d734f31ebb54ff572",
+  "skillsCommitDate": "2026-08-25T20:28:48Z",
+  "sourceCommit": "c841a9958abc8344b37ce5c6c5a06bec4cfa6b91",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
