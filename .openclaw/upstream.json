@@ -1,5 +1,5 @@
 {
-  "contentSha256": "d15b5795d357921b2d4b16c11bd24845c60d957947662cb11cd403f6802cfd14",
+  "contentSha256": "bbbc84629827f0177c31ff72aa3332edde5ee03b242ff49eff580aae27e979ed",
   "fileCount": 77,
   "files": [
     {
@@ -362,7 +362,7 @@
     {
       "mode": "100644",
       "path": "sherpa-onnx-tts/SKILL.md",
-      "sha256": "c8aa2e42c1dbe9ff98b4a072baa782d94bb52469199d11efc58277d7bd7e47be",
+      "sha256": "f3a4d30d0e7e14e76dcb5245e197e3dcf490e3f9e8298466e86e4f33847f532d",
       "size": 4033,
       "sourcePath": "skills/sherpa-onnx-tts/SKILL.md"
     },
@@ -547,9 +547,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "b58c167da895943c70500fab400ec50e33b64eac",
-  "skillsCommitDate": "2026-08-26T05:47:34Z",
-  "sourceCommit": "2941b3d779f2d3d7f0783245ea8de19f465d526f",
+  "skillsCommit": "1605dbd3efef1c10da95c4a9bbb51a19a9d07865",
+  "skillsCommitDate": "2026-08-26T08:37:37Z",
+  "sourceCommit": "ba7b912713a34f74865ac230cc1a509284af9de7",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
