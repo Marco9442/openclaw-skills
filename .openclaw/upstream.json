@@ -1,6 +1,6 @@
 {
-  "contentSha256": "c1dc0694242a1439590a3d5459c59b6f85b82cdda8ff84142ef1de0c40490b82",
-  "fileCount": 77,
+  "contentSha256": "ea052df1dd24721c8cb4fe0f63728318f452e9a23d2cf4d2a8cbbd991e269033",
+  "fileCount": 76,
   "files": [
     {
       "mode": "100644",
@@ -166,8 +166,8 @@
     {
       "mode": "100644",
       "path": "healthcheck/SKILL.md",
-      "sha256": "518ec6e0482cf1c7c7134f7777a8a4ae06b76021859fe69430926063df0c78a0",
-      "size": 2537,
+      "sha256": "b41044aeb25afe95daa5c8ef6f2d6b8d197f6a0b113b0888deaa4dd69e42b59b",
+      "size": 2909,
       "sourcePath": "skills/healthcheck/SKILL.md"
     },
     {
@@ -351,13 +351,6 @@
       "sha256": "406461cf916466516d1757166f707bbe3d3cfc9cb9ba0ca09f1787615b29eddf",
       "size": 2302,
       "sourcePath": "skills/sag/SKILL.md"
-    },
-    {
-      "mode": "100644",
-      "path": "session-logs/SKILL.md",
-      "sha256": "8c231c581ff0e0abf890ba53010c20ced96419683dc326f5e590209f6a1978f4",
-      "size": 6946,
-      "sourcePath": "skills/session-logs/SKILL.md"
     },
     {
       "mode": "100644",
@@ -546,10 +539,10 @@
   "openclawVersion": "2026.8.1",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
-  "skillCount": 51,
-  "skillsCommit": "0ea22eb06248326660d860e1c285f69c394f81af",
-  "skillsCommitDate": "2026-09-01T06:54:37Z",
-  "sourceCommit": "c884a081dd64048e033274371c72d5cfe5644849",
+  "skillCount": 50,
+  "skillsCommit": "ca09826331037e5f95d11b051afebbbeb45de7a3",
+  "skillsCommitDate": "2026-09-02T21:56:33Z",
+  "sourceCommit": "e35c5271c1aa311d22abbc5b7bc6aaaedf91ec62",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
