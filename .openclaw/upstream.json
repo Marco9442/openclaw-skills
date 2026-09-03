@@ -1,6 +1,6 @@
 {
-  "contentSha256": "ea052df1dd24721c8cb4fe0f63728318f452e9a23d2cf4d2a8cbbd991e269033",
-  "fileCount": 76,
+  "contentSha256": "2d47188650ad210f9396839d0c91b56aa3d77353faebec532b142017c151ef61",
+  "fileCount": 79,
   "files": [
     {
       "mode": "100644",
@@ -92,6 +92,27 @@
       "sha256": "cabfef83abacbecaf73081677a9fb1c718770594dfd729aafae93581dae2b242",
       "size": 10606,
       "sourcePath": "skills/coding-agent/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "control-ui/SKILL.md",
+      "sha256": "48c93f5b159507ba82aa446e4b6c899cddb3ceeba8ffe5c9f657b225e466676c",
+      "size": 5302,
+      "sourcePath": "skills/control-ui/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "path": "control-ui/references/dashboards.md",
+      "sha256": "04b8dc927f1200b685c78c03d97868ae0fb931715cc82256fb3c4c54d8e3e27f",
+      "size": 3010,
+      "sourcePath": "skills/control-ui/references/dashboards.md"
+    },
+    {
+      "mode": "100644",
+      "path": "control-ui/references/hosting.md",
+      "sha256": "6576ded2d65a1d7e829541ebb688c37d400497ddbe97cdc856dc465a1b5f8e5a",
+      "size": 3732,
+      "sourcePath": "skills/control-ui/references/hosting.md"
     },
     {
       "mode": "100644",
@@ -539,10 +560,10 @@
   "openclawVersion": "2026.8.1",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
-  "skillCount": 50,
-  "skillsCommit": "ca09826331037e5f95d11b051afebbbeb45de7a3",
-  "skillsCommitDate": "2026-09-02T21:56:33Z",
-  "sourceCommit": "e35c5271c1aa311d22abbc5b7bc6aaaedf91ec62",
+  "skillCount": 51,
+  "skillsCommit": "2953523ad46f98351639657f40ea4096e10e5bca",
+  "skillsCommitDate": "2026-09-03T08:45:46Z",
+  "sourceCommit": "3a5fc8f663d22c02362afc8ba454c5a06625ef72",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
