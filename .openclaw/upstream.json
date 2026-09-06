@@ -1,5 +1,5 @@
 {
-  "contentSha256": "14de751df585d2c5ab1d459d15e8e7904a9705576de4b106595f4311385ac747",
+  "contentSha256": "bd5e04b169c2e2748bc8cec2887ccb3b9f657bfc1a791d7b73d0d3abfde423a5",
   "fileCount": 79,
   "files": [
     {
@@ -467,29 +467,29 @@
     {
       "mode": "100644",
       "path": "taskflow-inbox-triage/SKILL.md",
-      "sha256": "75af6ffb65c3af0fded55d3eb526c456d869aa42a901ecc69a480bc7a7904110",
-      "size": 2577,
+      "sha256": "b1e2be7dff64a06b47fec76c0cc3a4d4d839a07f9c339498f0da63eeee802c6c",
+      "size": 3603,
       "sourcePath": "skills/taskflow-inbox-triage/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "taskflow/SKILL.md",
-      "sha256": "7b44de80a813a220dbd98b1e2e332712448f437de66870b889f59e155eddc019",
-      "size": 5387,
+      "sha256": "38fde5c5f1d8400e340c130105d56c3204ddd826934fae8ca9e137daa1caf7f3",
+      "size": 4156,
       "sourcePath": "skills/taskflow/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "taskflow/examples/inbox-triage.lobster",
-      "sha256": "c14fad8bdf3d9cc464818798aa0db83d2862754a3a1f97556e27ffde61b9cc5f",
-      "size": 1360,
+      "sha256": "c789911e33c2895de0701338fad57650dfb93779d29dc8d59cc7ce5fc70c173e",
+      "size": 1375,
       "sourcePath": "skills/taskflow/examples/inbox-triage.lobster"
     },
     {
       "mode": "100644",
       "path": "taskflow/examples/pr-intake.lobster",
-      "sha256": "bdb89b865573c8adabbb47a1ec102f00c34143da5b8de2e1c4dc06a9bc74f56a",
-      "size": 1274,
+      "sha256": "d98409de97e6b0316f79fd0f3280efd4742611f2e136e183427a217449ab39f9",
+      "size": 1401,
       "sourcePath": "skills/taskflow/examples/pr-intake.lobster"
     },
     {
@@ -557,13 +557,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.8.1",
+  "openclawVersion": "2026.9.2",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "300c092d8b4a42e285d68e7dc32c4b7712b63457",
-  "skillsCommitDate": "2026-09-04T16:03:00Z",
-  "sourceCommit": "13c4d2b36676c43994a37fbd897f44fa5cb6de4c",
+  "skillsCommit": "5866317c260c12a70ef814fe82dfc49de094679d",
+  "skillsCommitDate": "2026-09-05T20:47:21Z",
+  "sourceCommit": "cdea681b1c2bb7798b7f26d80fcc7a7163bdeb46",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
