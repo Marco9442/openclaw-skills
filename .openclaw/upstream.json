@@ -1,5 +1,5 @@
 {
-  "contentSha256": "bd5e04b169c2e2748bc8cec2887ccb3b9f657bfc1a791d7b73d0d3abfde423a5",
+  "contentSha256": "1251ae6fefc73a7d20768303430fa2a6d6cd590b4c8197fee7f118e6e5c4573c",
   "fileCount": 79,
   "files": [
     {
@@ -33,8 +33,8 @@
     {
       "mode": "100644",
       "path": "THIRD_PARTY_NOTICES.md",
-      "sha256": "c84200f7a9bb8b3abc8563520433316716a9eb83915cfe7c3063d5e6fce5e7ca",
-      "size": 1575,
+      "sha256": "c1d1bbc550feee74853eba104e347341569cbbbe37a9f77659993ca0766277d5",
+      "size": 2855,
       "sourcePath": "THIRD_PARTY_NOTICES.md"
     },
     {
@@ -563,7 +563,7 @@
   "skillCount": 51,
   "skillsCommit": "5866317c260c12a70ef814fe82dfc49de094679d",
   "skillsCommitDate": "2026-09-05T20:47:21Z",
-  "sourceCommit": "cdea681b1c2bb7798b7f26d80fcc7a7163bdeb46",
+  "sourceCommit": "dc37e52a10344f138f19d85f4d25db101566fd49",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
