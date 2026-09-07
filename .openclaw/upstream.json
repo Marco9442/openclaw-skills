@@ -1,5 +1,5 @@
 {
-  "contentSha256": "1251ae6fefc73a7d20768303430fa2a6d6cd590b4c8197fee7f118e6e5c4573c",
+  "contentSha256": "4aa48cdc88c75d3a9aed2bf78c599af24489fe812928a68033bcbfe3512779da",
   "fileCount": 79,
   "files": [
     {
@@ -348,8 +348,8 @@
     {
       "mode": "100644",
       "path": "peekaboo/SKILL.md",
-      "sha256": "0e7f6ae6c9a3d82f58f013b391d7eaa0259f60081de053e9ce0fde70724cc5ff",
-      "size": 7078,
+      "sha256": "be53d9a46c6bb331dc62be48b26d4f83495737e8d0b263fe52aafd58bfa6a33e",
+      "size": 4340,
       "sourcePath": "skills/peekaboo/SKILL.md"
     },
     {
@@ -561,9 +561,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "5866317c260c12a70ef814fe82dfc49de094679d",
-  "skillsCommitDate": "2026-09-05T20:47:21Z",
-  "sourceCommit": "dc37e52a10344f138f19d85f4d25db101566fd49",
+  "skillsCommit": "3ad57dc85fe3c7b94063a9b2094f76f0d6170175",
+  "skillsCommitDate": "2026-09-07T07:04:19Z",
+  "sourceCommit": "5d895d3d52a78751413eac0e59399da9b91cb026",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
