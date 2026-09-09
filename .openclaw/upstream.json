@@ -1,5 +1,5 @@
 {
-  "contentSha256": "35a94a895a86aa44f60fb5e359f40e7f6c3bc84beb559a06fec787ecf67457cc",
+  "contentSha256": "6371918d07b50e6ff81eb4c104b1797b43c380f7f7b706cabf8867be8957c843",
   "fileCount": 77,
   "files": [
     {
@@ -166,8 +166,8 @@
     {
       "mode": "100644",
       "path": "github/SKILL.md",
-      "sha256": "4e2b3f5425257e5863047f87ba5933a0a5481da41cf56731acb383a5a6427898",
-      "size": 4059,
+      "sha256": "efee896479d9257a19ed787e324b005be28c62ac6446bd8f193798dce6574731",
+      "size": 3649,
       "sourcePath": "skills/github/SKILL.md"
     },
     {
@@ -264,8 +264,8 @@
     {
       "mode": "100644",
       "path": "model-usage/scripts/test_model_usage.py",
-      "sha256": "5e1dadbd919072d39857fd011fe662137a058814caca990b0dfe6c6b73bc1251",
-      "size": 5654,
+      "sha256": "1bc6fceb436d836532e6901edb6eb473a68a16eda25f45f94322d99beea4a3b2",
+      "size": 5218,
       "sourcePath": "skills/model-usage/scripts/test_model_usage.py"
     },
     {
@@ -547,9 +547,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "ba8ba515ac6d302f75772cd1c9ab3f96f5f1fc5a",
-  "skillsCommitDate": "2026-09-09T09:54:58Z",
-  "sourceCommit": "e8596e50abcf5cf5fa8fbb40023b928139908e92",
+  "skillsCommit": "31d03f782230799ea6ceea8b41b6602b29d0da50",
+  "skillsCommitDate": "2026-09-09T17:48:08Z",
+  "sourceCommit": "30ce57e5e3f7533b2531d0cb3fd0a25f96c2b93a",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
