@@ -1,6 +1,6 @@
 {
-  "contentSha256": "6371918d07b50e6ff81eb4c104b1797b43c380f7f7b706cabf8867be8957c843",
-  "fileCount": 77,
+  "contentSha256": "c98c27ca2b8d25788dbb6c8d9189f6f0ec43a5a42b922cc1e84a02ae752baad8",
+  "fileCount": 78,
   "files": [
     {
       "mode": "100644",
@@ -96,8 +96,8 @@
     {
       "mode": "100644",
       "path": "control-ui/SKILL.md",
-      "sha256": "4ac22add336f535411ba9026d2c470af0111d19e386cb6eff0cd9cb104d684aa",
-      "size": 7013,
+      "sha256": "116b9ad9bef7a9ecceae3a39800880e017f302a3620fb8d8ab43f9d554fc77e6",
+      "size": 7274,
       "sourcePath": "skills/control-ui/SKILL.md"
     },
     {
@@ -173,8 +173,8 @@
     {
       "mode": "100644",
       "path": "gog/SKILL.md",
-      "sha256": "96c871162fced367ccd2e2c7767cf8f3fe42665d9a97bd6f5c21ad3167df6fdd",
-      "size": 4561,
+      "sha256": "1c7a5129f871dbb4890f6a83c7a6e40608593333d8f8149f8b0f80bbcae4755e",
+      "size": 6729,
       "sourcePath": "skills/gog/SKILL.md"
     },
     {
@@ -529,6 +529,13 @@
     },
     {
       "mode": "100644",
+      "path": "visualize/SKILL.md",
+      "sha256": "cfb27129deaa3973c2a9bbfe93a6fc5ac9b4be1f05bd3eecd3cf4aee54045e99",
+      "size": 8683,
+      "sourcePath": "skills/visualize/SKILL.md"
+    },
+    {
+      "mode": "100644",
       "path": "weather/SKILL.md",
       "sha256": "62ab4821aa873949d1c1091836be1659a42b32caadce4bd145f5505a1ceaeec1",
       "size": 2905,
@@ -543,13 +550,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.9.3",
+  "openclawVersion": "2026.9.4",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
-  "skillCount": 50,
-  "skillsCommit": "31d03f782230799ea6ceea8b41b6602b29d0da50",
-  "skillsCommitDate": "2026-09-09T17:48:08Z",
-  "sourceCommit": "30ce57e5e3f7533b2531d0cb3fd0a25f96c2b93a",
+  "skillCount": 51,
+  "skillsCommit": "cd1ff2a4d6080cb8e95bcf795c943009e07c37b2",
+  "skillsCommitDate": "2026-09-13T19:50:45Z",
+  "sourceCommit": "8fd2838b57cfcb76b8170d2d1bed71acf1f83b96",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
