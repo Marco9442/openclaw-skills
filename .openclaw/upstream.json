@@ -1,6 +1,6 @@
 {
-  "contentSha256": "97b7cc7bf944892fd013c7312a126dc0c0b1527514f84e1f3c31ec3e58992c8f",
-  "fileCount": 78,
+  "contentSha256": "afea59216bf5c958a71efbd5bfff753d381edb07989634ba14a07f4e96fdce34",
+  "fileCount": 79,
   "files": [
     {
       "mode": "100644",
@@ -474,8 +474,8 @@
     {
       "mode": "100644",
       "path": "taskflow/SKILL.md",
-      "sha256": "38fde5c5f1d8400e340c130105d56c3204ddd826934fae8ca9e137daa1caf7f3",
-      "size": 4156,
+      "sha256": "40e80b8aaffc5a51cce456829e6c80ee9573b82bb83ae92ee445c4b2aeba0be1",
+      "size": 4611,
       "sourcePath": "skills/taskflow/SKILL.md"
     },
     {
@@ -491,6 +491,13 @@
       "sha256": "d98409de97e6b0316f79fd0f3280efd4742611f2e136e183427a217449ab39f9",
       "size": 1401,
       "sourcePath": "skills/taskflow/examples/pr-intake.lobster"
+    },
+    {
+      "mode": "100644",
+      "path": "taskflow/references/subagent-workflows.md",
+      "sha256": "4c64af25db27e91179c9dbea6adb1c1feee4e5149bb9c7d07b27a09e9c8530ca",
+      "size": 6206,
+      "sourcePath": "skills/taskflow/references/subagent-workflows.md"
     },
     {
       "mode": "100644",
@@ -554,9 +561,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "f9c7173b20605b4081f2dd9ee3e1156119c45e98",
-  "skillsCommitDate": "2026-09-14T02:56:59Z",
-  "sourceCommit": "5f14ada90ce5f70897f358ce21b72d21560afcbc",
+  "skillsCommit": "7043f8fb4f6af6023f59934505573f748379b505",
+  "skillsCommitDate": "2026-09-14T06:29:48Z",
+  "sourceCommit": "8638c54e15f8323f1c4926ade7cffa86226ed1c9",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
