@@ -1,5 +1,5 @@
 {
-  "contentSha256": "afea59216bf5c958a71efbd5bfff753d381edb07989634ba14a07f4e96fdce34",
+  "contentSha256": "5b35400acb9fda8aa5ccc60f95f826c69bce7f0c43a6a3abc9baff736e3b911d",
   "fileCount": 79,
   "files": [
     {
@@ -516,8 +516,8 @@
     {
       "mode": "100755",
       "path": "tmux/scripts/find-sessions.sh",
-      "sha256": "4c4552ce0adb2754080969f00b761c1c118766771e0595b8c9b416ee0842fbae",
-      "size": 2945,
+      "sha256": "8df6ac8e5824b0fa4d791235bd944ce86b0d12dcbf98af7abeb6d6de50e96823",
+      "size": 2983,
       "sourcePath": "skills/tmux/scripts/find-sessions.sh"
     },
     {
@@ -557,13 +557,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.9.4",
+  "openclawVersion": "2026.9.6",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "7043f8fb4f6af6023f59934505573f748379b505",
-  "skillsCommitDate": "2026-09-14T06:29:48Z",
-  "sourceCommit": "8638c54e15f8323f1c4926ade7cffa86226ed1c9",
+  "skillsCommit": "e1317904b6941f9a79d08893f38ab2e93796a896",
+  "skillsCommitDate": "2026-09-24T10:27:08Z",
+  "sourceCommit": "88a90637af24383ca2dc1457ed8e275153b80999",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
