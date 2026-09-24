@@ -1,5 +1,5 @@
 {
-  "contentSha256": "5b35400acb9fda8aa5ccc60f95f826c69bce7f0c43a6a3abc9baff736e3b911d",
+  "contentSha256": "f49b88b5109442837a3e794a26d6ac4725f2b7b083f26c99f74f58181dff2298",
   "fileCount": 79,
   "files": [
     {
@@ -82,8 +82,8 @@
     {
       "mode": "100644",
       "path": "clawhub/SKILL.md",
-      "sha256": "f43dacdcec121b4f41e565530fd106b16500caa8e59cc3c4824014b853d76882",
-      "size": 2388,
+      "sha256": "99bff7ff613a0f4b8a7c76e0853814adf7707eecdf5fe78b8893086ca4545696",
+      "size": 2329,
       "sourcePath": "skills/clawhub/SKILL.md"
     },
     {
@@ -138,15 +138,15 @@
     {
       "mode": "100644",
       "path": "eightctl/SKILL.md",
-      "sha256": "ec9962d3f96bb7c5060760a1a5a292347d10bd68545e5a884f271b403592213a",
-      "size": 1096,
+      "sha256": "3e46252f398017429c79101fe6049f81755882e35a8c6150803c4c8822205ba3",
+      "size": 1047,
       "sourcePath": "skills/eightctl/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "gemini/SKILL.md",
-      "sha256": "6a1a1b18885e14d4984b80f9a0a98b992fe26781664e27b8a7afa18028445007",
-      "size": 1158,
+      "sha256": "1aad57691db927cf26b489e15bab4eb909e390ebca361c128f98ab5bcf4bdf43",
+      "size": 1129,
       "sourcePath": "skills/gemini/SKILL.md"
     },
     {
@@ -173,8 +173,8 @@
     {
       "mode": "100644",
       "path": "gog/SKILL.md",
-      "sha256": "1c7a5129f871dbb4890f6a83c7a6e40608593333d8f8149f8b0f80bbcae4755e",
-      "size": 6729,
+      "sha256": "d54a8e52b1e00bb5d33b46915fd549f8b792ef3a383fe40e92b195d11d2d5255",
+      "size": 6679,
       "sourcePath": "skills/gog/SKILL.md"
     },
     {
@@ -194,8 +194,8 @@
     {
       "mode": "100644",
       "path": "himalaya/SKILL.md",
-      "sha256": "60b330f88fb230b910836dd612f559570034e7932b9f85084247af8db944c343",
-      "size": 1755,
+      "sha256": "040f5f7304ec39c20e1ea61ed1fabc05108eb16820516ffd8c09b29528e188bb",
+      "size": 1693,
       "sourcePath": "skills/himalaya/SKILL.md"
     },
     {
@@ -278,8 +278,8 @@
     {
       "mode": "100644",
       "path": "node-connect/SKILL.md",
-      "sha256": "f5cb8259f13bb963f10c920fcc794b4a764b5179e113f602d9cd6ff7bb674c48",
-      "size": 6555,
+      "sha256": "334c20d3973238ba44a8b5885f0f6adf50342f5324940e1880bd75f61b86bfda",
+      "size": 6553,
       "sourcePath": "skills/node-connect/SKILL.md"
     },
     {
@@ -334,15 +334,15 @@
     {
       "mode": "100644",
       "path": "oracle/SKILL.md",
-      "sha256": "f92f45d64cd9d7cca74cc4ad14b2dc891c6344050c0dd1b902394576d40c2523",
-      "size": 4894,
+      "sha256": "b150b967b1326bec594bf24f8bddf10aeb78b49a64c91091dcdf5fdad35402c1",
+      "size": 4882,
       "sourcePath": "skills/oracle/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "ordercli/SKILL.md",
-      "sha256": "538a33d66aae6059128aa08f4428863a42d7d657f6edeefdb3c45c7d25c5605e",
-      "size": 2391,
+      "sha256": "890a7c2b4bbcec79c894ac9a4b76c11f734fa01b76b258a77e6429230b95a3c8",
+      "size": 2337,
       "sourcePath": "skills/ordercli/SKILL.md"
     },
     {
@@ -362,8 +362,8 @@
     {
       "mode": "100644",
       "path": "python-debugpy/SKILL.md",
-      "sha256": "bfb1891204b6726016f527044fa09ac656dd52b12d2b0e86e91c89424170aeb8",
-      "size": 2552,
+      "sha256": "dd4600a228fcdce153e4e318c2b8644e6f7f3964826958e89b5bae90db4877d3",
+      "size": 2530,
       "sourcePath": "skills/python-debugpy/SKILL.md"
     },
     {
@@ -551,8 +551,8 @@
     {
       "mode": "100644",
       "path": "xurl/SKILL.md",
-      "sha256": "fc9d705906cc219c0cfa1231446181dae8e96dcac6b373120edc7e1d1077567d",
-      "size": 2748,
+      "sha256": "0e5e736c382f0943e2c4ab974b593fe5b0b0a6ff7471f56f7ef9db69c19025f6",
+      "size": 2702,
       "sourcePath": "skills/xurl/SKILL.md"
     }
   ],
@@ -561,9 +561,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "e1317904b6941f9a79d08893f38ab2e93796a896",
-  "skillsCommitDate": "2026-09-24T10:27:08Z",
-  "sourceCommit": "88a90637af24383ca2dc1457ed8e275153b80999",
+  "skillsCommit": "a219fa50a0a99799440898037d7553a8f74e24ff",
+  "skillsCommitDate": "2026-09-24T21:16:21Z",
+  "sourceCommit": "1ab1bb09789aa46ad872178d341cf36164bdc407",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
