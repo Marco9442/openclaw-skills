@@ -1,5 +1,5 @@
 {
-  "contentSha256": "5301973618f60a35ee62b8a8a5ddb1006e0a26827a2d8b82ef14c8b3b5d8fb51",
+  "contentSha256": "b39463ef5009e2f4acf5396635868cabb7d380d59fd3509d659f13bd783ab740",
   "fileCount": 74,
   "files": [
     {
@@ -96,8 +96,8 @@
     {
       "mode": "100644",
       "path": "control-ui/SKILL.md",
-      "sha256": "116b9ad9bef7a9ecceae3a39800880e017f302a3620fb8d8ab43f9d554fc77e6",
-      "size": 7274,
+      "sha256": "aa54d5df5f8097fd3d2afeb0901502772919b226075d78b7fd9e5b12c25e0aea",
+      "size": 7268,
       "sourcePath": "skills/control-ui/SKILL.md"
     },
     {
@@ -327,8 +327,8 @@
     {
       "mode": "100644",
       "path": "openhue/SKILL.md",
-      "sha256": "db350ab41088193693c991dbe601a3b39b619feedfccec1784e77c3161c11c89",
-      "size": 2423,
+      "sha256": "2ab6c80280e9d7f19fa0fdadf8f37f096e30f52012edaaceb2175f513249494c",
+      "size": 2435,
       "sourcePath": "skills/openhue/SKILL.md"
     },
     {
@@ -390,8 +390,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/SKILL.md",
-      "sha256": "3b7b93823a496cedc957fc91bbc8f8be132f2edd095dcaa46cee5394c742f0e4",
-      "size": 2304,
+      "sha256": "7da0631cb21fbd87630b5dbeb48010f66776c28e396c276235f5d245903fa6ed",
+      "size": 2301,
       "sourcePath": "skills/skill-creator/SKILL.md"
     },
     {
@@ -522,13 +522,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.9.8",
+  "openclawVersion": "2026.9.9",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 49,
-  "skillsCommit": "f66ca124026797950926620645498b93c3672627",
-  "skillsCommitDate": "2026-10-08T06:35:36Z",
-  "sourceCommit": "8413457b09e654616de422f50ea2b5f3794ef53d",
+  "skillsCommit": "c57f3559f3d1e7c8717eff15ec0e570bfd2e3f47",
+  "skillsCommitDate": "2026-10-11T05:17:17Z",
+  "sourceCommit": "f2e649da67fa909126980d88171e93f3f99d6f01",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
