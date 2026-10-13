@@ -1,5 +1,5 @@
 {
-  "contentSha256": "b39463ef5009e2f4acf5396635868cabb7d380d59fd3509d659f13bd783ab740",
+  "contentSha256": "7b96f11e1a76e7dc6b703342e185c61ae61c946a8c1bb21cf6aad85a8708740b",
   "fileCount": 74,
   "files": [
     {
@@ -348,7 +348,7 @@
     {
       "mode": "100644",
       "path": "peekaboo/SKILL.md",
-      "sha256": "be53d9a46c6bb331dc62be48b26d4f83495737e8d0b263fe52aafd58bfa6a33e",
+      "sha256": "4369238bd780adc502acc48eef83a41d1a5fb8e6369b6cd258e11779043bfcb4",
       "size": 4340,
       "sourcePath": "skills/peekaboo/SKILL.md"
     },
@@ -522,13 +522,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.9.9",
+  "openclawVersion": "2026.10.2",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 49,
-  "skillsCommit": "c57f3559f3d1e7c8717eff15ec0e570bfd2e3f47",
-  "skillsCommitDate": "2026-10-11T05:17:17Z",
-  "sourceCommit": "f2e649da67fa909126980d88171e93f3f99d6f01",
+  "skillsCommit": "cc78f72a82978367843c16fd4fae490c5ffa5333",
+  "skillsCommitDate": "2026-10-12T20:38:04Z",
+  "sourceCommit": "7f4197068b3d721770bac045fa652f3bff506a81",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
