@@ -1,5 +1,5 @@
 {
-  "contentSha256": "f60135f8808f2513fc9df4a8610bc4743213d4888944ee07ea4af597149cb7cd",
+  "contentSha256": "56d805272c1f9d0e3f3e3cb42247d9cfbd6ea4839bdc6705e32c0150654f0c38",
   "fileCount": 74,
   "files": [
     {
@@ -33,8 +33,8 @@
     {
       "mode": "100644",
       "path": "THIRD_PARTY_NOTICES.md",
-      "sha256": "0642143856da1fe5a93bc4855d11d84e6b0eab3f37595200f6271329ce1dbb03",
-      "size": 3230,
+      "sha256": "3900fd8e96db8d9a38b1aa822bfa3c13e776533299d2744120f0e6ce60f60948",
+      "size": 4779,
       "sourcePath": "THIRD_PARTY_NOTICES.md"
     },
     {
@@ -278,8 +278,8 @@
     {
       "mode": "100644",
       "path": "node-connect/SKILL.md",
-      "sha256": "334c20d3973238ba44a8b5885f0f6adf50342f5324940e1880bd75f61b86bfda",
-      "size": 6553,
+      "sha256": "40f47cc3c6922049acb5b9a6871572a1f0d4c5b01eb7abfa9f36d0b933fe91ba",
+      "size": 6740,
       "sourcePath": "skills/node-connect/SKILL.md"
     },
     {
@@ -522,13 +522,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.10.3",
+  "openclawVersion": "2026.10.4",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 49,
-  "skillsCommit": "cc78f72a82978367843c16fd4fae490c5ffa5333",
-  "skillsCommitDate": "2026-10-12T20:38:04Z",
-  "sourceCommit": "5fdd725db9ae4221bd735a879c3409a78feeb50b",
+  "skillsCommit": "5b4824b8c80bd250cc031a545799f93cad97b3bc",
+  "skillsCommitDate": "2026-10-16T16:52:51Z",
+  "sourceCommit": "47edda1e4d2294826fff66c0a3d41defff768354",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
