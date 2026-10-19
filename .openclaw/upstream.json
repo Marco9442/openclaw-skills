@@ -1,5 +1,5 @@
 {
-  "contentSha256": "ee77dd7bd3f28b1f74bfef37b8087b622eeacddca9fd3255de896f933523ff17",
+  "contentSha256": "cbac5cdaebc781376f98a359204a9c551257f4e9f9653984916454214d27f3f2",
   "fileCount": 74,
   "files": [
     {
@@ -418,8 +418,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_package_skill.py",
-      "sha256": "806e5a5dbca711b9f30dded0b4bc31dc233b85a0ab301caabdd36900d5db9788",
-      "size": 7771,
+      "sha256": "9d47d5a26c47cbe70b788a39141e453a54626ed391ee12952eef6ffb5b73a3f7",
+      "size": 7360,
       "sourcePath": "skills/skill-creator/scripts/test_package_skill.py"
     },
     {
@@ -522,13 +522,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.10.4",
+  "openclawVersion": "2026.10.5",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 49,
-  "skillsCommit": "8695c767a9af4cabe60f5fe9d0f424653d7d5d7e",
-  "skillsCommitDate": "2026-10-18T06:48:21Z",
-  "sourceCommit": "1507c89eaa51d713a97b4135d72afb976856a485",
+  "skillsCommit": "8719cc25f10c87a2f90b1d86dda07862ea78b335",
+  "skillsCommitDate": "2026-10-19T00:54:18Z",
+  "sourceCommit": "547bdb68dcc382b94542ed4703b505493af8c1d3",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
