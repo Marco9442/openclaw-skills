@@ -1,5 +1,5 @@
 {
-  "contentSha256": "9790db5fa5ad3d815fbf4c4775a273aa7b805531a4c6befd478513102f465cb7",
+  "contentSha256": "af1481ab365509f1ec47fb2a75a16c0f51258566ffc653127c7bc47138a5a35b",
   "fileCount": 77,
   "files": [
     {
@@ -215,8 +215,8 @@
     {
       "mode": "100644",
       "path": "himalaya/SKILL.md",
-      "sha256": "040f5f7304ec39c20e1ea61ed1fabc05108eb16820516ffd8c09b29528e188bb",
-      "size": 1693,
+      "sha256": "dde091b15e99a2ca63363f110f045c7c2347ec9cb3a88dc51b109d75cc2dcae2",
+      "size": 1703,
       "sourcePath": "skills/himalaya/SKILL.md"
     },
     {
@@ -229,8 +229,8 @@
     {
       "mode": "100644",
       "path": "himalaya/references/message-composition.md",
-      "sha256": "84d889972f5f4243d891405b83e67bddc7e835b2c4e434efd77fdc6bca9fe307",
-      "size": 3799,
+      "sha256": "ba45ed7506280c20b652ccbad3042d7a6b3b261a68a25f33e189f940fc8fda36",
+      "size": 3801,
       "sourcePath": "skills/himalaya/references/message-composition.md"
     },
     {
@@ -543,13 +543,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.10.5",
+  "openclawVersion": "2026.10.6",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "f01f7a2f6172b2621be78cca6784d474e64503f4",
-  "skillsCommitDate": "2026-10-21T02:44:11Z",
-  "sourceCommit": "0bbae804ce6b1c106948832793bd26bbecbeccdc",
+  "skillsCommit": "ba0d3e645de125e6164888f9595b2747ada872f1",
+  "skillsCommitDate": "2026-10-24T11:02:03Z",
+  "sourceCommit": "520f698c81d888ea8c2d2b78ceaef55d84153d57",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
