@@ -1,5 +1,5 @@
 {
-  "contentSha256": "af1481ab365509f1ec47fb2a75a16c0f51258566ffc653127c7bc47138a5a35b",
+  "contentSha256": "930e01037374f61b5a82207661fa3a4da7d3330c6750cba2f4b86d656f7b054e",
   "fileCount": 77,
   "files": [
     {
@@ -397,7 +397,7 @@
     {
       "mode": "100644",
       "path": "sherpa-onnx-tts/SKILL.md",
-      "sha256": "f3a4d30d0e7e14e76dcb5245e197e3dcf490e3f9e8298466e86e4f33847f532d",
+      "sha256": "65ebbb672898bdee4416197b51e54e97d3d934bb4e4507d4a2de5e89db9f8ce5",
       "size": 4033,
       "sourcePath": "skills/sherpa-onnx-tts/SKILL.md"
     },
@@ -543,13 +543,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.10.6",
+  "openclawVersion": "2026.10.7",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "ba0d3e645de125e6164888f9595b2747ada872f1",
-  "skillsCommitDate": "2026-10-24T11:02:03Z",
-  "sourceCommit": "520f698c81d888ea8c2d2b78ceaef55d84153d57",
+  "skillsCommit": "ed4c9d4434495921bc42192fe724f9fd0d5d629b",
+  "skillsCommitDate": "2026-10-27T04:19:26Z",
+  "sourceCommit": "83289666b54557d655c7740d191e36895a5bcf56",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
