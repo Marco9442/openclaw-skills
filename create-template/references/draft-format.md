@@ -1,6 +1,6 @@
-# Private Claw draft format
+# Private Template draft format
 
-Write only the request-specific JSON draft at `.openclaw/claw-drafts/<draftId>.json`, using the `draftId` attached to this skill invocation's working context. Never infer a target from creation time or a shared pointer. Keep these fields:
+Write only the request-specific JSON draft at `.openclaw/template-drafts/<draftId>.json`, using the `draftId` attached to this skill invocation's working context. Never infer a target from creation time or a shared pointer. Keep these fields:
 
 ```json
 {
@@ -18,7 +18,7 @@ Write only the request-specific JSON draft at `.openclaw/claw-drafts/<draftId>.j
 }
 ```
 
-The manifest is the complete `CLAW.md` text. The UI's review service appends the four scope fields and builds the archive using OpenClaw's existing Claw project builder. The `name` is a lowercase unscoped package slug; `version` is exact semver. The person can change the name and description during review.
+The manifest is the complete `CLAW.md` text. The UI's review service appends the four scope fields and builds the archive using OpenClaw's existing Template project builder. The `name` is a lowercase unscoped package slug; `version` is exact semver. The person can change the name and description during review.
 
 For each portable workspace file, add its newly authored contents to `files`, for example `{ "path": "workspace/AGENTS.md", "content": "..." }`, and map it in manifest frontmatter:
 
@@ -46,4 +46,4 @@ packages:
     version: 2.0.0
 ```
 
-These package entries reference ClawHub versions. They do not copy skill or plugin code into the Claw archive. Keep tokens, credentials, personal accounts, and runtime-specific model choices out of the draft. The review service rejects unsafe paths and credential-like contents before publication.
+These package entries reference ClawHub versions. They do not copy skill or plugin code into the Template archive. Keep tokens, credentials, personal accounts, and runtime-specific model choices out of the draft. The review service rejects unsafe paths and credential-like contents before publication.
