@@ -1,5 +1,5 @@
 {
-  "contentSha256": "d68d7733c4f26c2311c3265e00c3ac3373adab14112c496dab04f7bfca5afe28",
+  "contentSha256": "c8c59e9651caa2e359636d871907cba27ff7bff132533dbc9061d231d149b184",
   "fileCount": 78,
   "files": [
     {
@@ -285,15 +285,15 @@
     {
       "mode": "100644",
       "path": "model-usage/scripts/model_usage.py",
-      "sha256": "cd13c65d9d10faaff20bdf40d5f45f6d26a29dacc3e13d8a1e481a3a8a0f4874",
-      "size": 11490,
+      "sha256": "46c86abca1821d2d4b4917d65bd6b7b1a260ff5f5c940bbfff3250463a754097",
+      "size": 11633,
       "sourcePath": "skills/model-usage/scripts/model_usage.py"
     },
     {
       "mode": "100644",
       "path": "model-usage/scripts/test_model_usage.py",
-      "sha256": "1bc6fceb436d836532e6901edb6eb473a68a16eda25f45f94322d99beea4a3b2",
-      "size": 5218,
+      "sha256": "67e9715e35f903ac081d4a377a472b154e42a4457b3e66d95fd7776c0ea6c93c",
+      "size": 5128,
       "sourcePath": "skills/model-usage/scripts/test_model_usage.py"
     },
     {
@@ -341,8 +341,8 @@
     {
       "mode": "100755",
       "path": "openai-whisper-api/scripts/transcribe.sh",
-      "sha256": "cdee0f6aeb4874270a03e512193665fea1dd6b8989e4bf909f73aa58b7e4c2b0",
-      "size": 3215,
+      "sha256": "687e1ee4c140d27a5101fce0b85ca1ee56e30935514860ab888d952f9eca213e",
+      "size": 3648,
       "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
     },
     {
@@ -432,29 +432,29 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/package_skill.py",
-      "sha256": "d22d8a2d57a0904caac4a85297648e8402d65f5e051c5ad93ac7151a94f94005",
-      "size": 5403,
+      "sha256": "fa4a8eaebbf054231cf41bc64e74adf2ab185a7c5488f8969f3c5323fbefb8b4",
+      "size": 5550,
       "sourcePath": "skills/skill-creator/scripts/package_skill.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/quick_validate.py",
-      "sha256": "580ccffbd9d4370bc35bca22c551da0353424e248d7499e8cd578eaec67dfd75",
-      "size": 5419,
+      "sha256": "55cc5e3203275b735483e2ac42bb0206a1097086b233dbf0cf85d6d29b2a6606",
+      "size": 5678,
       "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_package_skill.py",
-      "sha256": "4d25035167f55850ce4920f8db35d57c64e1a80b3f912078a1452d1926ce08d1",
-      "size": 7549,
+      "sha256": "4bd9f4ee78e46055b2be689cf7bc5d4963ab14ae95086328809a77b5dc4770f1",
+      "size": 7766,
       "sourcePath": "skills/skill-creator/scripts/test_package_skill.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_quick_validate.py",
-      "sha256": "349258a18c0130f0bf11dd60d361abffa493e426355bc14df4d1d3fc09a46f8a",
-      "size": 4533,
+      "sha256": "54a4c86abc7e4fddebcfe119dc5cfb1d0b34509c96b8144bf4b85f7f5b9eb786",
+      "size": 4432,
       "sourcePath": "skills/skill-creator/scripts/test_quick_validate.py"
     },
     {
@@ -509,15 +509,15 @@
     {
       "mode": "100755",
       "path": "tmux/scripts/find-sessions.sh",
-      "sha256": "34ab026de9e1d4aee1089984c25798d54fe3ec43c3ee0302e0eb6cac25005101",
-      "size": 3125,
+      "sha256": "5cd5f80305c7a08871d62988e908cd366a22d1c6e4b4857b77a64f52955b59e3",
+      "size": 3174,
       "sourcePath": "skills/tmux/scripts/find-sessions.sh"
     },
     {
       "mode": "100755",
       "path": "tmux/scripts/wait-for-text.sh",
-      "sha256": "5a8141ac9424840d7e082a68d63f4036aafa21cdc128dd71d0be6310f36aed83",
-      "size": 2298,
+      "sha256": "5c09c21bc7632753fcb5a5b89699aea153b16f8aeb6401bfb2c7e109df011b61",
+      "size": 2294,
       "sourcePath": "skills/tmux/scripts/wait-for-text.sh"
     },
     {
@@ -554,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "facdbeba2eff4eed1361b1a233abea00ecf87677",
-  "skillsCommitDate": "2026-11-07T06:27:47Z",
-  "sourceCommit": "ef22366218e71f2badd34dd9933e658e9b84d5ac",
+  "skillsCommit": "c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e",
+  "skillsCommitDate": "2026-11-07T13:30:34Z",
+  "sourceCommit": "c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
