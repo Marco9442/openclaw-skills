@@ -10,9 +10,9 @@
 
 - OpenClaw 版本：`2026.11.1`
 - 上游分支：`main`
-- 同步快照提交：[`c616f3a0bfeb`](https://github.com/openclaw/openclaw/commit/c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e)
-- `skills/` 最近变更提交：[`c616f3a0bfeb`](https://github.com/openclaw/openclaw/commit/c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e)
-- `skills/` 最近变更时间：`2026-11-07T13:30:34Z`
+- 同步快照提交：[`636fc28d8bbd`](https://github.com/openclaw/openclaw/commit/636fc28d8bbd11a3ba91569b2bb250339fa21a45)
+- `skills/` 最近变更提交：[`61bdbccd9dbd`](https://github.com/openclaw/openclaw/commit/61bdbccd9dbd3b5dd3191cfc5f3676681a54d528)
+- `skills/` 最近变更时间：`2026-11-07T16:24:28Z`
 - 可识别 Skills：`50`
 - 同步文件：`78`
 - 上游许可证：`MIT`

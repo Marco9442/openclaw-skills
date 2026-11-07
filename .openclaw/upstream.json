@@ -1,5 +1,5 @@
 {
-  "contentSha256": "c8c59e9651caa2e359636d871907cba27ff7bff132533dbc9061d231d149b184",
+  "contentSha256": "96a26571bb938f3cd20353fb05a6a7cb47f9663866540cda1c104b962158fa83",
   "fileCount": 78,
   "files": [
     {
@@ -439,8 +439,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/quick_validate.py",
-      "sha256": "55cc5e3203275b735483e2ac42bb0206a1097086b233dbf0cf85d6d29b2a6606",
-      "size": 5678,
+      "sha256": "bcf3b15a31ec9b1cc4cc65e0ce14b5186ace1f3579de57df28852646dcac67a2",
+      "size": 5968,
       "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
     },
     {
@@ -453,8 +453,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_quick_validate.py",
-      "sha256": "54a4c86abc7e4fddebcfe119dc5cfb1d0b34509c96b8144bf4b85f7f5b9eb786",
-      "size": 4432,
+      "sha256": "b918326f9c630aeccf3d8b8801bfb09b04a73ebb4f4141301898e842532c7c26",
+      "size": 5078,
       "sourcePath": "skills/skill-creator/scripts/test_quick_validate.py"
     },
     {
@@ -554,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e",
-  "skillsCommitDate": "2026-11-07T13:30:34Z",
-  "sourceCommit": "c616f3a0bfeb8c6e18c0c5ba4fb37d4004d8aa9e",
+  "skillsCommit": "61bdbccd9dbd3b5dd3191cfc5f3676681a54d528",
+  "skillsCommitDate": "2026-11-07T16:24:28Z",
+  "sourceCommit": "636fc28d8bbd11a3ba91569b2bb250339fa21a45",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
