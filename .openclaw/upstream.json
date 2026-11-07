@@ -1,6 +1,6 @@
 {
-  "contentSha256": "3bc810a9302d9eac3668b33b3fabf12bee8fb3991707dc1f39d859cd2ce6f365",
-  "fileCount": 77,
+  "contentSha256": "d68d7733c4f26c2311c3265e00c3ac3373adab14112c496dab04f7bfca5afe28",
+  "fileCount": 78,
   "files": [
     {
       "mode": "100644",
@@ -96,8 +96,8 @@
     {
       "mode": "100644",
       "path": "control-ui/SKILL.md",
-      "sha256": "aa54d5df5f8097fd3d2afeb0901502772919b226075d78b7fd9e5b12c25e0aea",
-      "size": 7268,
+      "sha256": "3cab0bfa015ddbe0ffcc94957257bc1c6339ae6c8a2724cb1d7034eb18ebc44b",
+      "size": 7383,
       "sourcePath": "skills/control-ui/SKILL.md"
     },
     {
@@ -113,6 +113,13 @@
       "sha256": "e1a5045eb73101e2daeeeac489d25ee95399c35d6a499789b5fa38a607006fd6",
       "size": 4843,
       "sourcePath": "skills/control-ui/references/hosting.md"
+    },
+    {
+      "mode": "100644",
+      "path": "control-ui/references/session-archive.md",
+      "sha256": "e691a3937c46155f0cf7efce85a679b879460c25a75d644b2eb96470b9dd1ab6",
+      "size": 821,
+      "sourcePath": "skills/control-ui/references/session-archive.md"
     },
     {
       "mode": "100644",
@@ -334,8 +341,8 @@
     {
       "mode": "100755",
       "path": "openai-whisper-api/scripts/transcribe.sh",
-      "sha256": "7840f2628e2e5d878434419592a8cfc5fbfcf2f560cc1511085387e38e429c78",
-      "size": 3214,
+      "sha256": "cdee0f6aeb4874270a03e512193665fea1dd6b8989e4bf909f73aa58b7e4c2b0",
+      "size": 3215,
       "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
     },
     {
@@ -425,8 +432,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/package_skill.py",
-      "sha256": "fa2f7ba4915464221cd71c7048e6eb71a920cf94c793332b4172d2ac353dd65a",
-      "size": 4703,
+      "sha256": "d22d8a2d57a0904caac4a85297648e8402d65f5e051c5ad93ac7151a94f94005",
+      "size": 5403,
       "sourcePath": "skills/skill-creator/scripts/package_skill.py"
     },
     {
@@ -439,8 +446,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_package_skill.py",
-      "sha256": "9d47d5a26c47cbe70b788a39141e453a54626ed391ee12952eef6ffb5b73a3f7",
-      "size": 7360,
+      "sha256": "4d25035167f55850ce4920f8db35d57c64e1a80b3f912078a1452d1926ce08d1",
+      "size": 7549,
       "sourcePath": "skills/skill-creator/scripts/test_package_skill.py"
     },
     {
@@ -502,15 +509,15 @@
     {
       "mode": "100755",
       "path": "tmux/scripts/find-sessions.sh",
-      "sha256": "8df6ac8e5824b0fa4d791235bd944ce86b0d12dcbf98af7abeb6d6de50e96823",
-      "size": 2983,
+      "sha256": "34ab026de9e1d4aee1089984c25798d54fe3ec43c3ee0302e0eb6cac25005101",
+      "size": 3125,
       "sourcePath": "skills/tmux/scripts/find-sessions.sh"
     },
     {
       "mode": "100755",
       "path": "tmux/scripts/wait-for-text.sh",
-      "sha256": "b7efb785d3f2a4f1194e2ae18d7191135ad5a2fff4f08e6a4c7ad8412f3a7309",
-      "size": 2294,
+      "sha256": "5a8141ac9424840d7e082a68d63f4036aafa21cdc128dd71d0be6310f36aed83",
+      "size": 2298,
       "sourcePath": "skills/tmux/scripts/wait-for-text.sh"
     },
     {
@@ -547,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "3e3e2c2ff9db412ceed4fdf4a13ede616e1488f8",
-  "skillsCommitDate": "2026-11-05T22:49:49Z",
-  "sourceCommit": "c63b3a2e58c45e82ea4d4955c1ac3bbb6a275d2e",
+  "skillsCommit": "facdbeba2eff4eed1361b1a233abea00ecf87677",
+  "skillsCommitDate": "2026-11-07T06:27:47Z",
+  "sourceCommit": "ef22366218e71f2badd34dd9933e658e9b84d5ac",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
