@@ -1,5 +1,5 @@
 {
-  "contentSha256": "a0a2ce93d7db524a206d58783344800cf710d033be0b6a2e5dc79fcbdc1af5ae",
+  "contentSha256": "3742ae739e03a4b4c1997b6d61c132a1cfc5326cd9886df5e9b8620003dafa13",
   "fileCount": 78,
   "files": [
     {
@@ -341,8 +341,8 @@
     {
       "mode": "100755",
       "path": "openai-whisper-api/scripts/transcribe.sh",
-      "sha256": "b0c5a750d741775d28240a3830395991119c7a7266a07aa69f2a79e6ab709d60",
-      "size": 3704,
+      "sha256": "5edc48a70125bf515c988ac825db73f9bf10da44bf90321002cb84112bce9045",
+      "size": 3831,
       "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
     },
     {
@@ -554,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "dde8b5c645014dc9371b04dca27df54d2d249759",
-  "skillsCommitDate": "2026-11-08T06:39:16Z",
-  "sourceCommit": "9b8aa392679f35f75674ba6bb01993ced16f1bd1",
+  "skillsCommit": "ea8f03c3a01b9cac5f2a56b3fa2d307e4acb69d8",
+  "skillsCommitDate": "2026-11-08T12:00:28Z",
+  "sourceCommit": "a53b789d19f163a15e0f4909ee4c46ea0abc63e1",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
