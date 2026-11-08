@@ -1,5 +1,5 @@
 {
-  "contentSha256": "96a26571bb938f3cd20353fb05a6a7cb47f9663866540cda1c104b962158fa83",
+  "contentSha256": "a0a2ce93d7db524a206d58783344800cf710d033be0b6a2e5dc79fcbdc1af5ae",
   "fileCount": 78,
   "files": [
     {
@@ -341,8 +341,8 @@
     {
       "mode": "100755",
       "path": "openai-whisper-api/scripts/transcribe.sh",
-      "sha256": "687e1ee4c140d27a5101fce0b85ca1ee56e30935514860ab888d952f9eca213e",
-      "size": 3648,
+      "sha256": "b0c5a750d741775d28240a3830395991119c7a7266a07aa69f2a79e6ab709d60",
+      "size": 3704,
       "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
     },
     {
@@ -432,29 +432,29 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/package_skill.py",
-      "sha256": "fa4a8eaebbf054231cf41bc64e74adf2ab185a7c5488f8969f3c5323fbefb8b4",
-      "size": 5550,
+      "sha256": "64ee960d4ab194f5d7e56298c4282d8c39925dd0c1cca2c3ebc10d3459b6c08a",
+      "size": 6161,
       "sourcePath": "skills/skill-creator/scripts/package_skill.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/quick_validate.py",
-      "sha256": "bcf3b15a31ec9b1cc4cc65e0ce14b5186ace1f3579de57df28852646dcac67a2",
-      "size": 5968,
+      "sha256": "05e56fa2f4043642099b766d5cee960f3840c534cb201b1594e5c09707cbbf21",
+      "size": 6313,
       "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_package_skill.py",
-      "sha256": "4bd9f4ee78e46055b2be689cf7bc5d4963ab14ae95086328809a77b5dc4770f1",
-      "size": 7766,
+      "sha256": "a4af52d5e3d5ebab9815793ce56220100fd9a7fffbdb582d6871a8e7a3a16fb6",
+      "size": 7942,
       "sourcePath": "skills/skill-creator/scripts/test_package_skill.py"
     },
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_quick_validate.py",
-      "sha256": "b918326f9c630aeccf3d8b8801bfb09b04a73ebb4f4141301898e842532c7c26",
-      "size": 5078,
+      "sha256": "64ffd3531e4de4dc892ddad89f70522b543478553c098d949dc92d0115fc827c",
+      "size": 5362,
       "sourcePath": "skills/skill-creator/scripts/test_quick_validate.py"
     },
     {
@@ -554,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "61bdbccd9dbd3b5dd3191cfc5f3676681a54d528",
-  "skillsCommitDate": "2026-11-07T16:24:28Z",
-  "sourceCommit": "636fc28d8bbd11a3ba91569b2bb250339fa21a45",
+  "skillsCommit": "dde8b5c645014dc9371b04dca27df54d2d249759",
+  "skillsCommitDate": "2026-11-08T06:39:16Z",
+  "sourceCommit": "9b8aa392679f35f75674ba6bb01993ced16f1bd1",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
