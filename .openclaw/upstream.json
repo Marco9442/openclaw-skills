@@ -1,5 +1,5 @@
 {
-  "contentSha256": "3742ae739e03a4b4c1997b6d61c132a1cfc5326cd9886df5e9b8620003dafa13",
+  "contentSha256": "c39bb53ace2f75edf35e8243fddb54c076959f8c9af2afc6622553273875ffe9",
   "fileCount": 78,
   "files": [
     {
@@ -124,8 +124,8 @@
     {
       "mode": "100644",
       "path": "create-template/SKILL.md",
-      "sha256": "33e10989e593f58531727b50ef58629b5cd0f5b579d5ef886fbdba8cdc47a69a",
-      "size": 3347,
+      "sha256": "3cf37ab97253cbcf0605ca0be0d2a9fe498258a1891376d1fd2da48e14ab87f2",
+      "size": 3350,
       "sourcePath": "skills/create-template/SKILL.md"
     },
     {
@@ -264,8 +264,8 @@
     {
       "mode": "100755",
       "path": "meme-maker/scripts/meme.mjs",
-      "sha256": "6211a37d19d90498b01fc31302506af0c0021e9949038054e1f7c34e71c4e1fd",
-      "size": 13362,
+      "sha256": "fd01ea51b17d2fa2dbc4ac0ad6909f87bb76a1149708629669c03e5b148217d3",
+      "size": 13353,
       "sourcePath": "skills/meme-maker/scripts/meme.mjs"
     },
     {
@@ -341,8 +341,8 @@
     {
       "mode": "100755",
       "path": "openai-whisper-api/scripts/transcribe.sh",
-      "sha256": "5edc48a70125bf515c988ac825db73f9bf10da44bf90321002cb84112bce9045",
-      "size": 3831,
+      "sha256": "44a8ca6b8820ed51d39a4b0f61b1ffe0959c969f3110fc95182a079664ebc93a",
+      "size": 3893,
       "sourcePath": "skills/openai-whisper-api/scripts/transcribe.sh"
     },
     {
@@ -516,8 +516,8 @@
     {
       "mode": "100755",
       "path": "tmux/scripts/wait-for-text.sh",
-      "sha256": "5c09c21bc7632753fcb5a5b89699aea153b16f8aeb6401bfb2c7e109df011b61",
-      "size": 2294,
+      "sha256": "ca874323f0b5b94db9a8299cef9183a2ebe8b07ca2bf1c90686ace84718cd020",
+      "size": 2724,
       "sourcePath": "skills/tmux/scripts/wait-for-text.sh"
     },
     {
@@ -550,13 +550,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.11.1",
+  "openclawVersion": "2026.11.2",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "ea8f03c3a01b9cac5f2a56b3fa2d307e4acb69d8",
-  "skillsCommitDate": "2026-11-08T12:00:28Z",
-  "sourceCommit": "a53b789d19f163a15e0f4909ee4c46ea0abc63e1",
+  "skillsCommit": "bb2f1c4a8acc31dde09a18fe61c5b51e76c85511",
+  "skillsCommitDate": "2026-11-09T20:06:27Z",
+  "sourceCommit": "b39848a3e49c39965226a8f7fbd849b5ba71f20c",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
