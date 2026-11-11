@@ -1,5 +1,5 @@
 {
-  "contentSha256": "bff63867b31abaa84478ae8059e030960d006570460f68b74e12e226dc19992a",
+  "contentSha256": "7552c4d1b77e051ccb068510479aa76bb2b3da329726e669e9f8bb81ae30c684",
   "fileCount": 78,
   "files": [
     {
@@ -124,15 +124,15 @@
     {
       "mode": "100644",
       "path": "create-template/SKILL.md",
-      "sha256": "e1614558ec9e135e3a96e897ed91e43085f780e22a830a34a994980781b0d09a",
-      "size": 4573,
+      "sha256": "ec709a9487fc95e9efab30453c489e6603b596301d3f14bc3d76b7898cafd44b",
+      "size": 5496,
       "sourcePath": "skills/create-template/SKILL.md"
     },
     {
       "mode": "100644",
       "path": "create-template/references/draft-format.md",
-      "sha256": "f93cd35cf91661b7b43865f4555a31e14394abbbae38c587c17142021b93e393",
-      "size": 2297,
+      "sha256": "dbfc625d6867ca5317c461e568e009de9bfd9ae417f33d8d1cb49b9b390c1f31",
+      "size": 3016,
       "sourcePath": "skills/create-template/references/draft-format.md"
     },
     {
@@ -411,8 +411,8 @@
     {
       "mode": "100755",
       "path": "sherpa-onnx-tts/bin/sherpa-onnx-tts",
-      "sha256": "542d46f42f5ff8d22ed71f58ca052e4e525a337d90bd25664a6237b6da56fd2a",
-      "size": 4811,
+      "sha256": "c5565b4dbc34bb306ce8681379146b5b2d869a5cce12b51b769b22ea8fad7005",
+      "size": 5038,
       "sourcePath": "skills/sherpa-onnx-tts/bin/sherpa-onnx-tts"
     },
     {
@@ -439,8 +439,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/quick_validate.py",
-      "sha256": "d53a719bbcea33e615aef8ff81e5c68d8ecf2b16520f01f7ff50dbc53ae12eef",
-      "size": 6335,
+      "sha256": "cddf505abf62ac1aebb1f437afc0f0bbd324d0af1fe7cbdce6730a9ccb117701",
+      "size": 6355,
       "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
     },
     {
@@ -516,8 +516,8 @@
     {
       "mode": "100755",
       "path": "tmux/scripts/wait-for-text.sh",
-      "sha256": "ca874323f0b5b94db9a8299cef9183a2ebe8b07ca2bf1c90686ace84718cd020",
-      "size": 2724,
+      "sha256": "6eee6443ee1e22c211cefde2f8bd4c835fef5d71b7326a858e109fc2e29d972c",
+      "size": 2932,
       "sourcePath": "skills/tmux/scripts/wait-for-text.sh"
     },
     {
@@ -554,9 +554,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 50,
-  "skillsCommit": "44a2948a9eaf4345069d4b652ae382d10dd08f62",
-  "skillsCommitDate": "2026-11-11T06:44:19Z",
-  "sourceCommit": "5adfac3d9e0d0bfee5cdf125b4e90ee9a85da97b",
+  "skillsCommit": "c1ecbca6ca505a0cae0af575fd55ca859144c1f3",
+  "skillsCommitDate": "2026-11-11T18:12:57Z",
+  "sourceCommit": "ea4879279abbf0e80d992a5649ef2f9b24debbd0",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
