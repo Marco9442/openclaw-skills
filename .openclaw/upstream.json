@@ -1,6 +1,6 @@
 {
-  "contentSha256": "7552c4d1b77e051ccb068510479aa76bb2b3da329726e669e9f8bb81ae30c684",
-  "fileCount": 78,
+  "contentSha256": "b13996ab48dc30757053b39168d60a0cd74c868d3e7b24b706770bf5d2a3c5e7",
+  "fileCount": 79,
   "files": [
     {
       "mode": "100644",
@@ -141,6 +141,13 @@
       "sha256": "e5a3a39fafbcacdb3cc8cb1f9fa49a1dd7a50ae3e1e1bf545fdfaa2f9acd5175",
       "size": 472,
       "sourcePath": "skills/create-template/scripts/cli.mjs"
+    },
+    {
+      "mode": "100644",
+      "path": "creative-project/SKILL.md",
+      "sha256": "7badeffb41b3e93ae9b38666168e63d2bbcf8977e5a16693b00d12d4edad74fe",
+      "size": 6570,
+      "sourcePath": "skills/creative-project/SKILL.md"
     },
     {
       "mode": "100644",
@@ -553,10 +560,10 @@
   "openclawVersion": "2026.11.3",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
-  "skillCount": 50,
-  "skillsCommit": "c1ecbca6ca505a0cae0af575fd55ca859144c1f3",
-  "skillsCommitDate": "2026-11-11T18:12:57Z",
-  "sourceCommit": "ea4879279abbf0e80d992a5649ef2f9b24debbd0",
+  "skillCount": 51,
+  "skillsCommit": "6057a3b25295298e48ca12df7bed65b4f6524992",
+  "skillsCommitDate": "2026-11-13T11:28:07Z",
+  "sourceCommit": "df0d49f58d1f269291528c44f8317a691b24194d",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
