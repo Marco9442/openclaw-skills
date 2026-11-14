@@ -1,5 +1,5 @@
 {
-  "contentSha256": "b13996ab48dc30757053b39168d60a0cd74c868d3e7b24b706770bf5d2a3c5e7",
+  "contentSha256": "c1fc9b29c41462e55b5fea61184e4bd041c83178604306668f73cdf56684b952",
   "fileCount": 79,
   "files": [
     {
@@ -201,8 +201,8 @@
     {
       "mode": "100644",
       "path": "github/SKILL.md",
-      "sha256": "88a912c2ec7437cda4775994efb2f45d79fdd5823fe2394050c3ab93b525e6d8",
-      "size": 5975,
+      "sha256": "47326f182950787107c95f73f2a66ac85c802b1f43d58e89ec93babfed4233b2",
+      "size": 6683,
       "sourcePath": "skills/github/SKILL.md"
     },
     {
@@ -561,9 +561,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 51,
-  "skillsCommit": "6057a3b25295298e48ca12df7bed65b4f6524992",
-  "skillsCommitDate": "2026-11-13T11:28:07Z",
-  "sourceCommit": "df0d49f58d1f269291528c44f8317a691b24194d",
+  "skillsCommit": "00636f0c7abc29e5c0af1bf75a16b1acda516401",
+  "skillsCommitDate": "2026-11-14T20:56:30Z",
+  "sourceCommit": "36d0dbdcf311a5b651fc023d65b8ba0e3bbb8258",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
