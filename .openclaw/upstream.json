@@ -1,5 +1,5 @@
 {
-  "contentSha256": "38ce13b52b4635c4ae3f5d3b1ff73911a8cb4fbcfbd555b9c23eff1c0abb2db4",
+  "contentSha256": "9dec0fdb5de633b892e78f7a736d6a61f0693650ebfd6b311aaa53d232fc1c3e",
   "fileCount": 82,
   "files": [
     {
@@ -467,8 +467,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/quick_validate.py",
-      "sha256": "cddf505abf62ac1aebb1f437afc0f0bbd324d0af1fe7cbdce6730a9ccb117701",
-      "size": 6355,
+      "sha256": "7818620ed584af43aacdc385274e4391ce22b82ca4436b76e743de45eec913b3",
+      "size": 6374,
       "sourcePath": "skills/skill-creator/scripts/quick_validate.py"
     },
     {
@@ -481,8 +481,8 @@
     {
       "mode": "100644",
       "path": "skill-creator/scripts/test_quick_validate.py",
-      "sha256": "64ffd3531e4de4dc892ddad89f70522b543478553c098d949dc92d0115fc827c",
-      "size": 5362,
+      "sha256": "c76e6593acd5fea61baf7bc5b5a12273cd17a66e451a4d0c2af76c6ac360c9c1",
+      "size": 5377,
       "sourcePath": "skills/skill-creator/scripts/test_quick_validate.py"
     },
     {
@@ -578,13 +578,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.11.4",
+  "openclawVersion": "2026.11.5",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 52,
-  "skillsCommit": "aeabca2e109167fe9dbc0037fd698848a2378b63",
-  "skillsCommitDate": "2026-11-16T23:57:52Z",
-  "sourceCommit": "981ef45114854548123c30939cb442a4ca3e93a3",
+  "skillsCommit": "8ea701e3d78e40362f0b28331cda0014b7bc508a",
+  "skillsCommitDate": "2026-11-19T07:34:38Z",
+  "sourceCommit": "38a5039f3a9a5af0ec6a0448cac52874b98927f0",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
