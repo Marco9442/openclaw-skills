@@ -1,5 +1,5 @@
 {
-  "contentSha256": "9dec0fdb5de633b892e78f7a736d6a61f0693650ebfd6b311aaa53d232fc1c3e",
+  "contentSha256": "4d9ff66fb8b053ffcf31817ea53c346603203e5f8069a0d41d32618e38ee65e4",
   "fileCount": 82,
   "files": [
     {
@@ -145,16 +145,9 @@
     {
       "mode": "100644",
       "path": "create-template/SKILL.md",
-      "sha256": "ec709a9487fc95e9efab30453c489e6603b596301d3f14bc3d76b7898cafd44b",
-      "size": 5496,
+      "sha256": "4682553f251c6339b135d54a504438c346073b8a2549c90bf416e4cd8757448c",
+      "size": 7398,
       "sourcePath": "skills/create-template/SKILL.md"
-    },
-    {
-      "mode": "100644",
-      "path": "create-template/references/draft-format.md",
-      "sha256": "54754c358b69a102e5ded4fe9fc24c22b26e6ea64e26d5bccbc76734851b6923",
-      "size": 3395,
-      "sourcePath": "skills/create-template/references/draft-format.md"
     },
     {
       "mode": "100644",
@@ -162,6 +155,13 @@
       "sha256": "e5a3a39fafbcacdb3cc8cb1f9fa49a1dd7a50ae3e1e1bf545fdfaa2f9acd5175",
       "size": 472,
       "sourcePath": "skills/create-template/scripts/cli.mjs"
+    },
+    {
+      "mode": "100644",
+      "path": "create-template/scripts/inventory.mjs",
+      "sha256": "e16ed715ef372400a7d1a990707be88418c7bfa6b1e8bd9298c21e790b391747",
+      "size": 11395,
+      "sourcePath": "skills/create-template/scripts/inventory.mjs"
     },
     {
       "mode": "100644",
@@ -582,9 +582,9 @@
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 52,
-  "skillsCommit": "8ea701e3d78e40362f0b28331cda0014b7bc508a",
-  "skillsCommitDate": "2026-11-19T07:34:38Z",
-  "sourceCommit": "38a5039f3a9a5af0ec6a0448cac52874b98927f0",
+  "skillsCommit": "87e11d6259e96f845f4665a9b7ad52c88ebed6fc",
+  "skillsCommitDate": "2026-11-20T00:53:48Z",
+  "sourceCommit": "749e2aed737bf33a9ed6a42ddd45a5d39b39a34d",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
