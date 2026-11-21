@@ -1,5 +1,5 @@
 {
-  "contentSha256": "4d9ff66fb8b053ffcf31817ea53c346603203e5f8069a0d41d32618e38ee65e4",
+  "contentSha256": "6a798bc5f83b83d4d3a130aa9252086a2c15e65414364da5cfb0c73db548fac0",
   "fileCount": 82,
   "files": [
     {
@@ -145,8 +145,8 @@
     {
       "mode": "100644",
       "path": "create-template/SKILL.md",
-      "sha256": "4682553f251c6339b135d54a504438c346073b8a2549c90bf416e4cd8757448c",
-      "size": 7398,
+      "sha256": "305f7b68f22259d6ef96e98e06c3456ce399a4d5b3f757e8314ea068416ba562",
+      "size": 9626,
       "sourcePath": "skills/create-template/SKILL.md"
     },
     {
@@ -159,8 +159,8 @@
     {
       "mode": "100644",
       "path": "create-template/scripts/inventory.mjs",
-      "sha256": "e16ed715ef372400a7d1a990707be88418c7bfa6b1e8bd9298c21e790b391747",
-      "size": 11395,
+      "sha256": "d0d3c420a7152a3c4a0c811277e662629b8573a02996b5f7a1e0df2fe5f6fb26",
+      "size": 11401,
       "sourcePath": "skills/create-template/scripts/inventory.mjs"
     },
     {
@@ -578,13 +578,13 @@
     }
   ],
   "license": "MIT",
-  "openclawVersion": "2026.11.5",
+  "openclawVersion": "2026.11.6",
   "pathMapping": "skills/<path> -> <path>",
   "schemaVersion": 1,
   "skillCount": 52,
-  "skillsCommit": "87e11d6259e96f845f4665a9b7ad52c88ebed6fc",
-  "skillsCommitDate": "2026-11-20T00:53:48Z",
-  "sourceCommit": "749e2aed737bf33a9ed6a42ddd45a5d39b39a34d",
+  "skillsCommit": "6b0df8b93610b320210488d93e6e205aafb84e69",
+  "skillsCommitDate": "2026-11-21T00:59:07Z",
+  "sourceCommit": "76cbbdf70d30394e85e600054c7a622edd71b6bf",
   "upstreamBranch": "main",
   "upstreamOwner": "openclaw",
   "upstreamRepository": "openclaw",
